@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Provenflow
+Software Tester | IT Audit & Compliance Practitioner | Building proven validation workflows
 
-<!--
-**Provenflow/Provenflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Core Focus
+- ITGC & application control audit
+- API / E2E test automation
+- Security validation, evidence collection & compliance check
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Python | Shell | Git | API testing | Static analysis | Audit checklist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Current Work
+Build lightweight CLI tools for audit evidence gathering and test validation.
+Learning security verification and Agent-based testing.
